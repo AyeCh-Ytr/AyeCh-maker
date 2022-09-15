@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AyeCh-maker
-- 👀 I’m interested in chocolate chips muffins
+- 👀 I love video games and data.
 - 🌱 I’m currently learning python.....
 - 
 .
