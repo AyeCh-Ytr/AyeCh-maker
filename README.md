@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @AyeChan,an aspiring data science
+- 👋 Hi, I’m @AyeChan,an aspiring data scienti.t
 - 👀 I love video games and data.
-- 🌱 I’m currently learning python,SQL and some math,stats.....
-Check Out My First Ever Deep Learning Project Using The FER2013 Dataset On My Code Profiles
-- 
+- 🌱 I’m currently learning python,SQL and some math,stats....
+- Kindly Check Out My First Ever Deep Learning Project Using The FER2013 Dataset On My Code Profiles
 .
 
 <!---
